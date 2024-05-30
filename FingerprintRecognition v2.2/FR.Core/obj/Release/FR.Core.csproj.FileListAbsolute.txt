@@ -1,0 +1,8 @@
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.Core.XML
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.Core.dll
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.Core.pdb
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.Core\obj\Release\FR.Core.csproj.AssemblyReference.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.Core\obj\Release\FR.Core.csproj.CoreCompileInputs.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.Core\obj\Release\FR.Core.csproj.CopyComplete
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.Core\obj\Release\FR.Core.dll
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.Core\obj\Release\FR.Core.pdb

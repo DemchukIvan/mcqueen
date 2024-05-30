@@ -1,0 +1,6 @@
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll.config
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.pdb
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.CoreCompileInputs.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.dll
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.pdb

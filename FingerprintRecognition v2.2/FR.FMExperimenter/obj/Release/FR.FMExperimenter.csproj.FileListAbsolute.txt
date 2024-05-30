@@ -1,0 +1,13 @@
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe.config
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.pdb
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.AssemblyReference.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.VisualFingerprintMatchingFrm.resources
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FMExperimenterForm.resources
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.GenerateResource.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CoreCompileInputs.cache
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CopyComplete
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+C:\Users\sunny\OneDrive\Рабочий стол\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
