@@ -1,0 +1,99 @@
+[33mcommit 56a208b625b9b4441cba38bbb192539473cc6b99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Develop[m[33m)[m
+Author: Nick <sunnynorryk@gmail.com>
+Date:   Thu Jun 6 15:34:44 2024 +0300
+
+    Внесены заключительные изменения
+    
+    Удален файл newfile.txt и внесены правки в документ Проект22сем
+
+[33mcommit abafda70475f589ca242a774c69bb547cd2dab4e[m[33m ([m[1;31morigin/feature/additional-feature[m[33m)[m
+Author: Nick <sunnynorryk@gmail.com>
+Date:   Thu Jun 6 15:25:19 2024 +0300
+
+    Добавлена картинка
+    
+    Добавлена картинка на рабочий стол для поднятия боевого духа команды
+
+[33mcommit daa14e83a5f373f8e86cc733adbdaddc93191635[m
+Author: kaimanusha <macqvin@yandex.ru>
+Date:   Thu May 30 18:13:21 2024 +0300
+
+    Добавил файл
+    
+    Добавлен файл проекта
+
+[33mcommit 6fdf0f5156d4e107ec7fd9bbd57244d500f6c254[m
+Merge: bfda475 e2287aa
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 18:09:57 2024 +0300
+
+    Merge branch 'main' of https://github.com/DemchukIvan/mcqueen
+
+[33mcommit e2287aa5d97c76ada0e2ab388a14d4cffd1be5cc[m
+Merge: 2c007dc bedac53
+Author: KaysinSaveliy <skaysin@mail.ru>
+Date:   Thu May 30 18:06:51 2024 +0300
+
+    Merge branch 'main' of https://github.com/DemchukIvan/mcqueen
+
+[33mcommit 2c007dcf2612bc779c383a6667cd577afa830107[m
+Author: KaysinSaveliy <skaysin@mail.ru>
+Date:   Thu May 30 18:04:56 2024 +0300
+
+    Create Encrypt_massage.py
+
+[33mcommit bfda475d8b2e7c26b033c878e5d639dd4b5c7dae[m
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 18:04:16 2024 +0300
+
+    Добавил проект Ерохин Н.В.
+    
+    Добавлен проект который используется для анализа отпечатков пальцев
+
+[33mcommit bedac536e505feaea984265d94fe9c9a299bb9ea[m
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 17:53:32 2024 +0300
+
+    Добавлено слово опечатка
+    
+    Мы добавили слово в текстовый документ
+
+[33mcommit 18d8279581f4f32f759f64febe58ff604bb7854f[m[33m ([m[1;31morigin/feature/additional-content[m[33m)[m
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 17:50:31 2024 +0300
+
+    Удален файл с инструкциями
+    
+    Мы удалили файл с инструкциями
+
+[33mcommit a848ad7f32c9357b647fdd8000181f63c1c9036a[m
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 17:49:00 2024 +0300
+
+    Добавлены дополнительные сведения
+
+[33mcommit 7e84e2373759e0092e4c764368854db24eac9360[m
+Author: NickWorkShop <money1307@mail.ru>
+Date:   Thu May 30 17:41:16 2024 +0300
+
+    Добавлен файл с инструкциями
+    
+    Пустой файл с инструкциями добавлен
+
+[33mcommit e630cd4e743f61f34f2038e2f91adc12eb0c953c[m
+Author: DemchukIvan <Demchukivan111@gmail.com>
+Date:   Thu May 30 00:28:08 2024 +0300
+
+    КАКАЯ ТО ПРОГА ХЗ ВООБЩЕ ЧЕ ТАМ
+
+[33mcommit 8a739606e2703976ccb22b9b4cb04c152f604436[m[33m ([m[1;31morigin/Ivan/APP[m[33m)[m
+Author: DemchukIvan <Demchukivan111@gmail.com>
+Date:   Thu May 30 00:18:11 2024 +0300
+
+    Добавлены дополнительные сведения
+
+[33mcommit a3d416b2adf55b158ccd2d67229814bf8819fb92[m[33m ([m[1;31morigin/NIKITA/Front[m[33m, [m[1;31morigin/Max/BACK[m[33m, [m[1;31morigin/Cava/Web[m[33m)[m
+Author: DemchukIvan <Demchukivan111@gmail.com>
+Date:   Wed May 29 23:11:46 2024 +0300
+
+    Добавлен README.md
